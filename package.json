@@ -1,0 +1,14 @@
+{
+  "name": "node-starter",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/main.ts",
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "prettier": "^3.5.3",
+    "typescript": "^5.8.3",
+    "vitest": "^3.2.3"
+  }
+}
